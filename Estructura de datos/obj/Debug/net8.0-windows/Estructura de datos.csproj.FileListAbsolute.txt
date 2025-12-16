@@ -1,0 +1,17 @@
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.exe
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.deps.json
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.runtimeconfig.json
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.dll
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\bin\Debug\net8.0-windows\Estructura de datos.pdb
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura_de_datos.Form1.resources
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.csproj.GenerateResource.cache
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.AssemblyInfoInputs.cache
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.AssemblyInfo.cs
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.sourcelink.json
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.dll
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\refint\Estructura de datos.dll
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.pdb
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\Estructura de datos.genruntimeconfig.cache
+C:\Users\monca\Source\Repos\Estructura-de-datos\Estructura de datos\obj\Debug\net8.0-windows\ref\Estructura de datos.dll
